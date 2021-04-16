@@ -6,3 +6,5 @@ https://golangnews.com/
 
 https://stackify.com/learn-go-tutorials/
 
+在线图书 https://www.tutorialspoint.com/go/
+
