@@ -16,4 +16,7 @@ https://stackify.com/learn-go-tutorials/
 ### GO调度
 
 [详解Go语言调度循环源码实现](https://www.cnblogs.com/luozhiyun/p/14426737.html)
+
 [Go 调度模型 GPM](https://studygolang.com/articles/29179)
+
+[Golang 调度器和 GMP 模型](https://segmentfault.com/a/1190000040080290)
