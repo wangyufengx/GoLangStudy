@@ -12,3 +12,8 @@ https://stackify.com/learn-go-tutorials/
 
 开源项目包漏洞检测 https://deps.dev/
 
+
+### GO调度
+
+[详解Go语言调度循环源码实现](https://www.cnblogs.com/luozhiyun/p/14426737.html)
+[Go 调度模型 GPM](https://studygolang.com/articles/29179)
